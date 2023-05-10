@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: Publications
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+A list of my publications is available on my [google scholar profile](https://scholar.google.com/citations?user=QJQMYLsAAAAJ&hl). \
+You can also see some project highlights on my [research group webpage](https://corail-research.github.io/publications/).
 
-{% include base_path %}
+{% for publi in site.data.publist %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  * {{ publi.title }} <br />
+   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
 {% endfor %}

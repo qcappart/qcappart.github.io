@@ -1,0 +1,269 @@
+- title: "Combinatorial optimization and reasoning with graph neural networks"
+  image: GNN-pic.png
+  description:  "Combinatorial optimization is a well-established area in operations research and computer science. 
+  Until recently, its methods have focused on solving problem instances in isolation,
+   ignoring the fact that they often stem from related data distributions in practice. 
+   However, recent years have seen a surge of interest in using machine learning, 
+   especially graph neural networks, as a key building block for combinatorial tasks. 
+   This paper presents a conceptual review of recent key advancements in this emerging field, 
+  aiming at researchers in both optimization and machine learning"
+  authors: Q. Cappart, D. Chételat, E. Khalil, A. Lodi, C. Morris, P. Veličković
+  link:
+    url: https://arxiv.org/abs/2102.09544
+    display: Journal of Machine Learning Research (2023, accepted - to appear)
+  highlight: 1
+  news2:
+
+- title: "Dynamic Routing and Wavelength Assignment with Reinforcement Learning"
+  image: IJOO23.png
+  description:  "With the rapid developments in communication systems, and considering their dynamic nature, all-optical
+  networks are becoming increasingly complex. This paper proposes a novel method based on deep reinforcement 
+  learning for the routing and wavelength assignment problem in all-optical wavelength-decision-multiplexing networks. 
+  We employ graph neural networks to capture crucial latent information from the graph-structured input to develop the optimal strategy. 
+  The proposed deep reinforcement learning algorithm selects a route and a wavelength simultaneously for each incoming traffic connection
+  as they arrive."
+  authors: P. Kafaei, Q. Cappart, N. Chapados, H. Pouya, L.-M. Rousseau
+  link: 
+    url: https://hanalog.ca/wp-content/uploads/2022/07/INFORMS_J_Optimization_RWA.pdf
+    display: INFORMS Journal on Optimization (2023, accepted - to appear)
+  highlight: 0
+  news2:
+
+- title: "Explaining the Behavior of Reinforcement Learning Agents using Association Rules"
+  image: LION2023-game.jpg
+  description:  "Deep reinforcement learning algorithms are increasingly used to drive decision-making systems. 
+  However, there exists a known tension between the efficiency of a machine learning algorithm and its level of explainability. 
+  Generally speaking, increased efficiency comes with the cost of decisions that are harder to explain.
+  This paper proposes to explain the behaviour of a deep reinforcement learning algorithm thanks to standard data mining tools, 
+  i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry."
+  authors: Z. Parham, V.T. de Lille, Q. Cappart
+  link:
+    url: https://lion17.org/
+    display: Proceedings of LION 2023 conference
+  highlight: 0
+  news2:
+
+- title: "Repositioning Fleet Vehicles: a Learning Pipeline"
+  image: LION2023-fleet.jpg
+  description:  "Managing a fleet of vehicles under uncertainty requires careful planning and adaptability. 
+  We consider a ride-hailing problem where the operator manages vehicle repositioning to maximize responsiveness.
+  This paper introduces a supervised learning pipeline that uses past trip data to reposition vehicles while adapting to fleet activity, 
+  a geographical zone, and seasonal or daily request variation. 
+  This tool has been developed for, and used by, operators of an ambulance company in Belgium. 
+  Using predictors for ambulance repositioning reduces at least 10% of the overall fleet reaction distance."
+  authors: A. Parjadis, Q. Cappart, Q. Massoteau, L.-M. Rousseau,
+  link:
+    url: https://lion17.org/
+    display: Proceedings of LION 2023 conference
+  highlight: 0
+  news2:
+
+- title: "Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver"
+  image: CP2023-tom.jpg
+  description:  "Constraint programming is known for being an efficient approach for solving combinatorial problems. 
+  Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time.
+  Although several generic variable-selection heuristics are available in the literature, 
+  the options for a generic value-selection heuristic are more scarce.
+  This paper introduces a generic learning procedure that can be used to obtain a value-selection heuristic 
+  inside a constraint programming solver. This has been achieved thanks to the combination of a deep Q-learning algorithm, a tailored reward signal, 
+  and a heterogeneous graph neural network architecture."
+  authors: T. Marty, T. François, P. Tessier, L. Gauthier, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://arxiv.org/abs/2301.01913
+    display: ArXived (2023)
+  highlight: 0
+  news2:
+
+- title: "Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams"
+  image: CP2022-Peel.png
+  description:  "Decision diagrams are an increasingly important tool in 
+  cutting-edge solvers for discrete optimization. This paper extends our previously
+  peel-and-bound approaches and close several benchmark instances on the traveling salesman problem with time
+  windows problem"
+  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2302.05483
+    display: ArXived (2023)
+  highlight: 0
+  news2:
+
+
+- title: "Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams"
+  image: CP2022-Peel.png
+  description:  "Decision diagrams are an increasingly important tool in 
+  cutting-edge solvers for discrete optimization.
+   However, the field of decision diagrams is relatively new, 
+   and is still incorporating the library of techniques that conventional
+    solvers have had decades to build.
+     We drew inspiration from the warm-start 
+     technique used in conventional solvers to address one of the major challenges
+      faced by decision diagram based methods."
+  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2205.05216
+    display: Proceedings of CP 2022 conference **(Best paper award)**
+  highlight: 1
+  news2:
+
+
+
+- title: "Scheduling the Equipment Maintenance of an Electric Power Transmission Network Using Constraint Programming"
+  image: CP2022-HQ.png
+  description:  "Modern electrical power utilities must maintain their electrical equipment 
+  and replace it when the end of its useful life arrives.
+  The Transmission Maintenance Scheduling (TMS) problem consists in 
+   generating an annual maintenance plan for electric power transportation equipment 
+   while maintaining the stability of the network and ensuring a continuous power flow 
+   for customers. Each year, a list of equipment (power lines, capacitors, transistors, etc.)
+    that needs to be maintained or replaced is available and the goal
+     is to generate an optimal maintenance plan.
+      This paper proposes a constraint-based scheduling approach for
+       solving the TMS problem."
+  authors: L. Popovic, A. Côté, M. Gaha, F. Nguewouo, Q. Cappart
+  link:
+    url: https://drops.dagstuhl.de/opus/volltexte/2022/16663/
+    display: Proceedings of CP 2022 conference
+  highlight: 1
+  news2:
+
+
+- title: "Improving Variable Orderings of Approximate Decision Diagrams Using Reinforcement Learning"
+  image: IJOC-2022.png
+  description:  "This paper studies the use of reinforcement learning to compute a 
+  variable ordering of decision diagram-based approximations
+   for discrete optimization problems.
+    This is among the first works to propose the use of
+     machine learning to improve upon generic bounding methods 
+     for discrete optimization problems, 
+     thereby establishing a critical bridge between optimization and learning."
+  authors: Q. Cappart, D. Bergman, L.-M. Rousseau, I. Prémont-Schwarz, A. Parjadis
+  link:
+    url: https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1194
+    display: INFORMS Journal on Computing (2022)
+  highlight: 1
+  news2:
+
+- title: "Learning the travelling salesperson problem requires rethinking generalization"
+  image: CP2021-pic.png
+  description:  "End-to-end training of neural network solvers for 
+  combinatorial problems such as the Travelling Salesman Problem 
+  is intractable and inefficient beyond a few hundreds of nodes. 
+  While state-of-the-art Machine Learning approaches perform closely to classical solvers for trivially small sizes,
+   they are unable to generalize the learnt policy to larger instances.
+   This paper proposes controlled experiments in the first principled investigation into such zero-shot generalization,
+    revealing that extrapolating beyond training data requires rethinking the entire neural combinatorial optimization
+    pipeline. "
+  authors: C. K. Joshi, Q. Cappart, L.-M. Rousseau, T. Laurent
+  link:
+    url: https://link.springer.com/article/10.1007/s10601-022-09327-y
+    display:  Constraints Journal (2022)
+  highlight: 1
+  news2:
+
+
+
+- title: "On Causal Inference for Data-free Structured Pruning"
+  image: missing-pic.jpg
+  description:  "This paper proposes an approach based on causal inference to facilitate structured pruning of neural networks"
+  authors: M. Ferianc, A. Sankaran, O. Mastropietro, E. Saboori, Q. Cappart
+  link:
+    url: https://arxiv.org/abs/2112.10229
+    display:  Proceedings of ITCI'22 workshop (affilated to AAAI 2022 conference)
+  highlight: 0
+  news2:
+
+- title: "The Machine Learning for Combinatorial Optimization Competition (ML4CO): Results and Insights"
+  image: NeurIPS2022.png
+  description:  "Combinatorial optimization is a well-established area 
+  in operations research and computer science.
+   Until recently, its methods have focused on solving problem instances in isolation, 
+   ignoring that they often stem from related data distributions in practice.
+    However, recent years have seen a surge of interest in using machine learning 
+    as a new approach for solving combinatorial problems, 
+    either directly as solvers or by enhancing exact solvers. 
+    Based on this context, the ML4CO aims at improving state-of-the-art 
+    combinatorial optimization solvers by replacing key heuristic components."
+  authors: M. Gasse, Q. Cappart, A. Parjadis, et al.
+  link:
+    url: https://proceedings.mlr.press/v176/gasse22a.html
+    display: NeurIPS 2021 Competitions and Demonstrations Track
+  highlight: 1
+  news2:
+
+- title: "Graph neural networks and deep reinforcement learning for simultaneous beam orientation and trajectory optimization of Cyberknife"
+  image: PMB-pic.jpg
+  description:  "This paper presents a deep Q-learning approach based on graph
+neural networks to improve cancer treatments performed by the Cyberknife system."
+  authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6560/ac2bb5/meta
+    display:   Physics in Medicine & Biology Journal (2021)
+  highlight: 1
+  news2:
+
+- title: "Improving branch-and-bound using decision diagrams and reinforcement learning"
+  image: missing-pic.jpg
+  description:  "This paper presents a branch-and-bound algorithm based both on decision diagrams and 
+  reinforcement learning"
+  authors: A. Parjadis, Q. Cappart, L.-M. Rousseau, D. Bergman
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-78230-6_28
+    display:  Proceedings of CPAIOR 2021 conference
+  highlight: 0
+  news2:
+
+- title: "SeaPearl: A Constraint Programming Solver guided by Reinforcement Learning"
+  image: seapearl.jpg
+  description:  "This paper presents the proof of concept for SeaPearl, 
+  a new constraint programming solver implemented in Julia, 
+  that supports machine learning routines in order to learn branching decisions using reinforcement learning. 
+  Support for modeling the learning component is also provided."
+  authors: F. Chalumeau, I. Coulon, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2102.09193
+    display:  Proceedings of CPAIOR 2021 conference
+  highlight: 1
+  news2:
+
+
+  
+- title: "Combining reinforcement learning and constraint programming for combinatorial optimization"
+  image: AAAI2021-pic.png
+  description:  "We propose a general and hybrid approach, based on deep reinforcement learning and constraint programming,
+   for solving combinatorial optimization problems. 
+   The core of the approach is based on a dynamic programming formulation, 
+   that acts as a bridge between both techniques."
+  authors: Q. Cappart, T. Moisan, L.-M. Rousseau, I. Prémont-Schwarz, A. Cire
+  link:
+    url: https://arxiv.org/abs/2006.01610
+    display:  Proceedings of AAAI 2021 conference
+  highlight: 1
+  news2:
+
+
+- title: "Improving Optimization Bounds using Machine Learning: Decision Diagrams meet Deep Reinforcement Learning"
+  image: AAAI2019-pic.png
+  description: "Finding tight bounds on the optimal solution is a critical element of 
+  practical solution methods for discrete optimization problems. 
+  In the last decade, decision diagrams have brought a new perspective on obtaining upper and lower bounds that 
+  can be significantly better than classical bounding mechanisms.
+  We propose a generic approach based on deep reinforcement learning 
+  for obtaining an ordering for tightening the bounds obtained 
+  with relaxed and restricted decision diagrams."
+  authors: Q. Cappart, E. Goutierre, D. Bergman, L.-M. Rousseau
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/3956
+    display: Proceedings of AAAI 2019 conference
+  highlight: 0
+
+- title: "How to Evaluate Machine Learning Approaches for Combinatorial Optimization: Application to the Travelling Salesman Problem"
+  image: howtotsp-pic.png
+  description: ""
+  authors: A. François, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/1909.13121
+    display: ArXived (2019)
+  highlight: 0
+
+
+
