@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
+
 I am Quentin, an assistant professor at [Polytechnique Montréal](https://polymtl.ca/en) (engineering school associated to [University of Montreal](https://www.umontreal.ca/en/))
 in the department of computer engineering and software engineering. I am also a regular member of [CIRRELT](https://www.cirrelt.ca/default.aspx) and of the [association for constraint programming](https://www.a4cp.org/). I also lead the [CORAIL research group](https://corail-research.github.io/), that I co-founded with [Louis-Martin Rousseau](https://hanalog.ca/en/person/louis-martin-rousseau/).
 
