@@ -1,3 +1,16 @@
+- title: "Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams"
+  image: CP2022-Peel.png
+  description:  "Decision diagrams are an increasingly important tool in 
+  cutting-edge solvers for discrete optimization. This paper extends our previously
+  peel-and-bound approaches and close several benchmark instances on the traveling salesman problem with time
+  windows problem"
+  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2302.05483
+    display: Journal of Artificial Intelligence Research (2023, accepted - to appear)
+  highlight: 0
+  news2:
+
 - title: "Combinatorial optimization and reasoning with graph neural networks"
   image: GNN-pic.png
   description:  "Combinatorial optimization is a well-established area in operations research and computer science. 
@@ -74,18 +87,6 @@
   highlight: 0
   news2:
 
-- title: "Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams"
-  image: CP2022-Peel.png
-  description:  "Decision diagrams are an increasingly important tool in 
-  cutting-edge solvers for discrete optimization. This paper extends our previously
-  peel-and-bound approaches and close several benchmark instances on the traveling salesman problem with time
-  windows problem"
-  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
-  link:
-    url: https://arxiv.org/abs/2302.05483
-    display: ArXived (2023)
-  highlight: 0
-  news2:
 
 
 - title: "Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams"
