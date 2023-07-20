@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Building a Constraint Programming Solver Guided by Machine Learning: Opportunities and Challenge** 
+* **Building a Constraint Programming Solver Guided by Machine Learning** 
   * CP Tutorial (2022, Haifa, Israël) - with Louis-Martin Rousseau
 
 * **Learning to bound using decision diagrams and reinforcement learning** ([recording](https://www.youtube.com/watch?v=f_2ChLgVV5c))

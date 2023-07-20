@@ -13,8 +13,8 @@ author_profile: true
 
 ## Area chair and senior program committee
 
-* **AAAI:** 2023 (*AAAI conference on artificial intelligence*)
-* **LOG:** 2022 (*Learning on graphs conference*)
+* **AAAI:** 2024, 2023 (*AAAI conference on artificial intelligence*)
+* **LOG:** 2023, 2022 (*Learning on graphs conference*)
 
 ## Program committee
 

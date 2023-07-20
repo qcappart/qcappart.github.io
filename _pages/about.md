@@ -30,6 +30,7 @@ Selected Honors and Awards
 ======
 
 * **Best paper award** (ACP - 2022) [[link](https://www.a4cp.org/awards/paper-awards), [paper](https://drops.dagstuhl.de/opus/volltexte/2022/16664/pdf/LIPIcs-CP-2022-35.pdf)]
+* **Discovery grant** (NSERC - 2022) [[link](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ResearchGrants-SubventionsDeRecherche/ResultsInsDetail-ResultatsEtabDetails_eng.asp?Year=2022&Institution=20)]
 * **Prix Méritas** (Polytechnique Montréal - 2022) [[link](https://www.polymtl.ca/carrefour-actualite/nouvelles/gala-meritas-2021-2022-la-communaute-etudiante-de-polytechnique-recompense-48-enseignantes-et)]
 * **Postdoctoral research funding** (IVADO - 2018) [[link](http://ivado.ca/en/research-community/)]
 * **Student paper contest third prize** (IEEE Region 8 - 2015) [[link](https://ieeer8.org/student-activities/sa-spc/sa-spc-hall-of-fame/congratulations-to-spc-2015-winners/)]
