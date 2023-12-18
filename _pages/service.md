@@ -20,7 +20,7 @@ author_profile: true
 
 * **AAAI:** 2022, 2021, 2020 (*AAAI conference on artificial intelligence*)
 * **CP:** 2023, 2019 (*International conference on principles and practice of constraint programming*)
-* **CPAIOR:** 2023, 2022 (*International conference on the integration of CP, AI, and OR*)
+* **CPAIOR:** 2024, 2023, 2022 (*International conference on the integration of CP, AI, and OR*)
 * **IJCAI:** 2020 (*International joint conferences on artificial intelligence*)
 * **JFPC:** 2023, 2022, 2021, 2018 (*Journées francophones de programmation par contraintes*)
 

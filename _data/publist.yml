@@ -1,4 +1,38 @@
-- title: "Learning a Generic Value-Selection Heuristic Inside1 a Constraint Programming Solve"
+- title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
+  image: ""
+  description:  ""
+  authors: H. Hoppe, T. Enders, Q. Cappart, M. Schiffer
+  link: 
+    url: https://arxiv.org/abs/2312.08884
+    display: Arxived (2023)
+  highlight: 0
+  news2:
+  year: 2023
+
+- title: "Decision Diagrams in Space!"
+  image: ""
+  description:  ""
+  authors: I. Rudich, Q. Cappart, M. López-Ibáñez, M. Römer, L.-M. Rousseau
+  link: 
+    url: https://arxiv.org/abs/2312.01404
+    display: Arxived (2023)
+  highlight: 0
+  news2:
+  year: 2023
+
+- title: "The Unsolved Challenges of LLMs as Generalist Web Agents: A Case Study"
+  image: ""
+  description:  ""
+  authors: R. Assouel, T. Marty, M. Caccia, I. H. Laradji, A. Drouin, S. Rajeswar, H. Palacios, Q. Cappart, D. Vazquez, N. Chapados, M. Gasse, A. Lacoste
+  link: 
+    url: https://openreview.net/forum?id=jt3il4fC5B
+    display: Foundation Models for Decision Making Workshop  (affilated to NeurIPS 2023 conference)
+  highlight: 0
+  news2:
+  year: 2023
+
+
+- title: "Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver"
   image: CP2023-tom.jpg
   description:  "Constraint programming is known for being an efficient approach for solving combinatorial problems. 
   Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time.
@@ -10,7 +44,7 @@
   authors: T. Marty, T. François, P. Tessier, L. Gauthier, L.-M. Rousseau, Q. Cappart
   link: 
     url: https://arxiv.org/abs/2301.01913
-    display: Proceedings of CP 2023 conference
+    display: Proceedings of CP 2023 conference **(Distinguished paper)**
   highlight: 0
   news2:
   year: 2023
@@ -72,7 +106,7 @@
   i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry."
   authors: Z. Parham, V.T. de Lille, Q. Cappart
   link:
-    url: https://lion17.org/
+    url: https://link.springer.com/book/10.1007/978-3-031-44505-7
     display: Proceedings of LION 2023 conference
   highlight: 0
   news2:
@@ -88,7 +122,7 @@
   Using predictors for ambulance repositioning reduces at least 10% of the overall fleet reaction distance."
   authors: A. Parjadis, Q. Cappart, Q. Massoteau, L.-M. Rousseau
   link:
-    url: https://lion17.org/
+    url: https://link.springer.com/book/10.1007/978-3-031-44505-7
     display: Proceedings of LION 2023 conference
   highlight: 0
   news2:

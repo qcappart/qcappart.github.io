@@ -10,12 +10,14 @@ More information about them is available [here](https://corail-research.github.i
 ## Current members
 
 * *Öykü Naz Attila* (Postdoc) - co-supervision with A. Legrain
-* *Max Bourgeat* (Ph.D. starting in 2024) 
+* *Max Bourgeat* (Ph.D. started in 2024) 
 * *El Mehdi Mehiri* (Ph.D. started in 2022) - co-supervision with A. Legrain
 * *Maryam Abazari* (Ph.D. started in 2022) 
 * *Gaël Reynal* (Ph.D. started in 2020) - co-supervision with L.-M. Rousseau and G. Desaulniers
 * *Isaac Rudich* (Ph.D. started in 2019) - co-supervision with L.-M. Rousseau
-* *Théau Lepouttre* (M.Sc. starting in 2024) 
+* *Yoann Sabatier Montanaro* (M.Sc. started in 2024) - co-supervision with G. Desaulniers
+* *Thibault le Sellier de Chezelles* (M.Sc. started in 2024) - co-supervision with M. Gasse
+* *Théau Lepouttre* (M.Sc. started in 2024) 
 * *Amaury Guichard* (M.Sc. started in 2023) 
 * *Hugo Barral* (M.Sc. started in 2023) 
 * *Thomas Jacquet* (M.Sc. started in 2023) - co-supervision with G. Desaulniers
@@ -27,7 +29,7 @@ More information about them is available [here](https://corail-research.github.i
 
 ## Alumni (and next position)
 
-* *Augustin Parjadis* (Ph.D. in 2023, with L.-M. Rousseau)
+* *Augustin Parjadis* (Ph.D. in 2023, with L.-M. Rousseau) - Data scientist at Ivado Labs 
 * *Peyman Kafaei* (Ph.D. in 2022, with L.-M. Rousseau) - Data scientist at Ivado Labs 
 * *Tom Marty* (M.Sc. in 2023, with L.-M. Rousseau) - Ph.D. student at Mila
 * *Vincent Beiglig* (M.Sc. in 2023) 

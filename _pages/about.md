@@ -14,7 +14,7 @@ redirect_from:
 
 
 I am Quentin, an assistant professor at [Polytechnique Montréal](https://polymtl.ca/en) (engineering school associated to [University of Montreal](https://www.umontreal.ca/en/))
-in the department of computer engineering and software engineering. I am also a regular member of [CIRRELT](https://www.cirrelt.ca/default.aspx) and of the [association for constraint programming](https://www.a4cp.org/). I also lead the [CORAIL research group](https://corail-research.github.io/), that I co-founded with [Louis-Martin Rousseau](https://hanalog.ca/en/person/louis-martin-rousseau/).
+in the department of computer engineering and software engineering. I am also a regular member of [CIRRELT](https://www.cirrelt.ca/default.aspx),  member of the [association for constraint programming](https://www.a4cp.org/), and affiliate member of [MILA](https://mila.quebec/en/). I also lead the [CORAIL research group](https://corail-research.github.io/), that I co-founded with [Louis-Martin Rousseau](https://hanalog.ca/en/person/louis-martin-rousseau/).
 
 
 Prior to that, I was a a post-doctoral IVADO fellow at Polytechnique Montréal, where I worked with Louis-Martin Rousseau and as a research intern at ElementAI (acquired by [ServiceNow](https://www.servicenow.com/research/)).  I obtained my Ph.D. in 2017 from [UCLouvain](https://www.google.com/search?hl=fr&q=UCLouvain), and was supervised by [Pierre Schaus](https://www.info.ucl.ac.be/~pschaus/).
