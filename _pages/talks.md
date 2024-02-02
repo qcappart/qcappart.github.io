@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Local search and metaheuristics** ([recording](https://www.youtube.com/watch?v=isORWJP0L1U))
+  * [FRIARE Africa](https://www.friare.org/) (2024, online)
+
+
 * **Building a Constraint Programming Solver Guided by Machine Learning** 
   * CP Tutorial (2022, Haifa, Israël) - with Louis-Martin Rousseau
 

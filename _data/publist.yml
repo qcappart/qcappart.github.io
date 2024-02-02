@@ -1,3 +1,65 @@
+
+
+#2024 -----------------------------------
+
+- title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
+  image: ""
+  description:  ""
+  authors: H. Barral, M. Gaha, A. Dems, A. Côté, F. Nguewouo, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches"
+  image: ""
+  description:  ""
+  authors: L. Boisvert, H. Verhaeghe, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "A machine-learning-based column generation heuristic for electric bus scheduling"
+  image: ""
+  description:  ""
+  authors: J. Gerbaux, Q. Cappart, G. Desaulniers
+  link: 
+    url: ""
+    display: Submitted
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Deep Learning for Data-Driven Districting-and-Routing"
+  image: ""
+  description:  ""
+  authors: A. Ferraz, Q. Cappart, T. Vidal
+  link: 
+    url: 
+    display: Submitted
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
+  image: ""
+  description:  ""
+  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
+  link: 
+    url: https://arxiv.org/abs/2312.14836
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+
+
+
 - title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
   image: ""
   description:  ""
