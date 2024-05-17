@@ -2,6 +2,29 @@
 
 #2024 -----------------------------------
 
+- title: "MARCO: A Memory-Augmented Reinforcement framework for Combinatorial Optimization"
+  image: ""
+  description:  ""
+  authors: A. Irazusta, J. Ceberio, A. Mendiburu, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of IJCAI 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?"
+  image: ""
+  description:  ""
+  authors: A. Drouin, M. Gasse, M. Caccia, I. Laradji, M. Del Verme, T. Marty, L. Boisvert, M. Thakkar, Q. Cappart, D. Vazquez, N. Chapados, A. Lacoste
+  link: 
+    url: https://servicenow.github.io/WorkArena/
+    display:  ICLR 2024 Workshop on Large Language Model (LLM) Agent
+  highlight: 0
+  news2:
+  year: 2024
+
+
 - title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
   image: ""
   description:  ""
@@ -24,13 +47,24 @@
   news2:
   year: 2024
 
+- title: An Improved Neuro-Symbolic Architecture to Fine-Tune Generative AI Systems"
+  image: ""
+  description:  ""
+  authors: C. Yin, Q. Cappart, G. Pessant
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
 - title: "A machine-learning-based column generation heuristic for electric bus scheduling"
   image: ""
   description:  ""
   authors: J. Gerbaux, Q. Cappart, G. Desaulniers
   link: 
-    url: ""
-    display: Submitted
+    url: https://www.gerad.ca/fr/papers/3074.pdf
+    display: Les Cahiers du GERAD (2024)
   highlight: 0
   news2:
   year: 2024
@@ -40,8 +74,8 @@
   description:  ""
   authors: A. Ferraz, Q. Cappart, T. Vidal
   link: 
-    url: 
-    display: Submitted
+    url: https://arxiv.org/abs/2402.06040
+    display: Arxived (2024)
   highlight: 0
   news2:
   year: 2024
@@ -66,10 +100,10 @@
   authors: H. Hoppe, T. Enders, Q. Cappart, M. Schiffer
   link: 
     url: https://arxiv.org/abs/2312.08884
-    display: Arxived (2023)
+    display: Proceedings of L4DC conference (to appear)
   highlight: 0
   news2:
-  year: 2023
+  year: 2024
 
 - title: "Decision Diagrams in Space!"
   image: ""

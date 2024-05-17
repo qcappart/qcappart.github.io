@@ -9,11 +9,17 @@ author_profile: true
 ## Event organization
 
 * **Organizing commitee of CRM thematic program**  (*Mathematical foundations of data science - for 2025*)
-* **Organizing commitee of 2021 NeurIPS Competition** ([*Machine learning for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
+* **CP and Machine Learning Track Chair**  ([*CP2024 conference*](https://cp2024.a4cp.org/index.html))
+* **Organizing commitee of 2021 NeurIPS Competition** ([*ML for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
+
+## Editorial Activites for Journals
+
+* **Editorial board member** ([constraints](https://link.springer.com/journal/10601), since June 2024)
 
 ## Area chair and senior program committee
 
 * **AAAI:** 2024, 2023 (*AAAI conference on artificial intelligence*)
+* **CP:** 2024 (*International conference on principles and practice of constraint programming*)
 * **LOG:** 2023, 2022 (*Learning on graphs conference*)
 
 ## Program committee
@@ -24,7 +30,7 @@ author_profile: true
 * **IJCAI:** 2020 (*International joint conferences on artificial intelligence*)
 * **ECAI:** 2024 (*European conference on artificial intelligence*)
 * **NETGCOOP:** 2024 (*Network games, artificial intelligence, control and optimization*)
-* **JFPC:** 2023, 2022, 2021, 2018 (*Journées francophones de programmation par contraintes*)
+* **JFPC:** 2024, 2023, 2022, 2021, 2018 (*Journées francophones de programmation par contraintes*)
 
 ## Reviewing
 
@@ -37,6 +43,7 @@ author_profile: true
 * *Transportation Science*
 * *Transportation Research (Parts B and C)*
 * *Transactions on Knowledge and Data Engineering*
+* *Transactions on Pattern Analysis and Machine Intelligence*
 * *SN Operations Research Forum*
 * *Engineering Applications of Artificial Intelligence*
 * *NeurIPS 2022 competition track NeurIPS*

@@ -20,10 +20,8 @@ More information about them is available [here](https://corail-research.github.i
 * *Théau Lepouttre* (M.Sc. started in 2024) 
 * *Amaury Guichard* (M.Sc. started in 2023) 
 * *Hugo Barral* (M.Sc. started in 2023) 
-* *Thomas Jacquet* (M.Sc. started in 2023) - co-supervision with G. Desaulniers
-* *Loïc Grumiaux* (M.Sc. started in 2023) 
 * *Léo Boisvert* (M.Sc. started in 2022) 
-* *Paulo Correia* (M.Sc. started in 2022) 
+
 
 
 
@@ -31,11 +29,14 @@ More information about them is available [here](https://corail-research.github.i
 
 * *Augustin Parjadis* (Ph.D. in 2023, with L.-M. Rousseau) - Data scientist at Ivado Labs 
 * *Peyman Kafaei* (Ph.D. in 2022, with L.-M. Rousseau) - Data scientist at Ivado Labs 
+* *Loïc Grumiaux* (M.Sc. in 2024) - Technology analyst at Morgan Stanley
+* *Thomas Jacquet* (M.Sc. in 2024, with G. Desaulniers) - Software engineer at Banque de Luxembourg
+* *Paulo Correia* (M.Sc. in 2024) 
 * *Tom Marty* (M.Sc. in 2023, with L.-M. Rousseau) - Ph.D. student at Mila
-* *Vincent Beiglig* (M.Sc. in 2023) 
+* *Vincent Beiglig* (M.Sc. in 2023)
 * *Louis Popovic* (M.Sc. in 2023, with G. Desaulniers) - Data engineer at Ivado Labs
-* *Juliette Gerbaux* (M.Sc. in 2023, with G. Desaulniers)
-* *Zahra Parham* (M.Sc. in 2023) - AI developer at Keatext
+* *Juliette Gerbaux* (M.Sc. in 2023, with G. Desaulniers) - Engineer at RTE - **Best Master thesis in mathematics and industrial engineering department**
+* *Zahra Parham* (M.Sc. in 2023) - AI developer at Chubb
 * *Mozhgan Moeintaghavi* (M.Sc. in 2023, with G. Desaulniers)
 * *Arthur Ferraz* (M.Sc. in 2022,  with T. Vidal) - Tech lead machine learning at Gupy 
 * *Rosanne Larocque* (M.Sc. in 2022) - Sofware engineer at Google
