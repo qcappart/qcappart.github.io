@@ -18,6 +18,7 @@ More information about them is available [here](https://corail-research.github.i
 * *Yoann Sabatier Montanaro* (M.Sc. started in 2024) - co-supervision with G. Desaulniers
 * *Thibault le Sellier de Chezelles* (M.Sc. started in 2024) - co-supervision with M. Gasse
 * *Théau Lepouttre* (M.Sc. started in 2024) 
+* *Chao Yin* (M.Sc. started in 2023)  - co-supervision with G. Pesant
 * *Amaury Guichard* (M.Sc. started in 2023) 
 * *Hugo Barral* (M.Sc. started in 2023) 
 * *Léo Boisvert* (M.Sc. started in 2022) 
