@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Early Career Researcher Award Talk** ([slides](../slides/cp-2024))
+* **Early Career Researcher Award Talk** ([slides](../slides/cp-2024.pdf))
   * [CP 2024](https://cp2024.a4cp.org/) (Girona, Spain)
 
 * **Parcours de professeur en IA (in french)** ([interview](https://www.youtube.com/watch?v=0ArDBKQaJGc))
