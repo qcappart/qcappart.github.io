@@ -8,7 +8,7 @@ author_profile: true
 
 ## Event organization
 
-* **Organizing commitee of CRM thematic program**  (*Mathematical foundations of data science - for 2025*)
+* **Organizing commitee of CRM thematic program**  ([*Mathematical foundations of data science*](https://www.crmath.ca/en/activities/#/type/activity/id/3950))
 * **CP and Machine Learning Track Chair**  ([*CP2024 conference*](https://cp2024.a4cp.org/index.html))
 * **Organizing commitee of 2021 NeurIPS Competition** ([*ML for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
 
@@ -18,9 +18,9 @@ author_profile: true
 
 ## Area chair and senior program committee
 
-* **AAAI:** 2024, 2023 (*AAAI conference on artificial intelligence*)
+* **AAAI:** 2025, 2024, 2023 (*AAAI conference on artificial intelligence*)
 * **CP:** 2024 (*International conference on principles and practice of constraint programming*)
-* **LOG:** 2023, 2022 (*Learning on graphs conference*)
+* **LOG:** 2924, 2023, 2022 (*Learning on graphs conference*)
 
 ## Program committee
 

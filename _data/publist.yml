@@ -2,13 +2,115 @@
 
 #2024 -----------------------------------
 
+
+- title: "Learning Valid Dual Bounds in Constraint Programming: Boosted Lagrangian Decomposition with Self-Supervised Learning"
+  image: ""
+  description:  ""
+  authors: S. Bessa, D. Dabert, M. Bourgeat, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://arxiv.org/abs/2408.12695
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks"
+  image: ""
+  description:  ""
+  authors: L. Boisvert, M. Thakkar, M. Gasse, M. Caccia, T. Le Sellier De Chezelles, Q. Cappart, N. Chapados, A. Lacoste, A. Drouin
+  link: 
+    url: https://arxiv.org/abs/2407.05291
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Precedences for Scheduling Problems with Graph Neural Networks"
+  image: ""
+  description:  ""
+  authors: H. Verhaeghe, Q. Cappart, G. Pesant, C.-G. Quimper
+  link: 
+    url: 
+    display: Proceedings of CP 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
+  image: ""
+  description:  ""
+  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
+  link: 
+    url: https://arxiv.org/abs/2312.14836
+    display: Proceedings of CP 2024 conference **(Best ML paper award)**
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Estimating Road Construction Costs with Explainable Machine Learning"
+  image: ""
+  description:  ""
+  authors: R. Larocque, A.-M. Boulé, Q. Cappart
+  link: 
+    url: https://pubsonline.informs.org/doi/10.1287/inte.2023.0027
+    display: INFORMS Journal on Applied Analytics (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Winning the [2023 CityLearn Challenge](https://neurips.cc/virtual/2023/competition/66590): a Community-based Hierarchical Energy Systems Coordination Algorithm"
+  image: ""
+  description:  ""
+  authors: A. Garmendia, F. Morri, Q. Cappart, H. Le Cadre
+  link: 
+    url: XXXX
+    display: Proceedings of ECAI 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+
 - title: "MARCO: A Memory-Augmented Reinforcement framework for Combinatorial Optimization"
   image: ""
   description:  ""
-  authors: A. Irazusta, J. Ceberio, A. Mendiburu, Q. Cappart
+  authors: A. Garmendia, J. Ceberio, A. Mendiburu, Q. Cappart
   link: 
-    url: ""
-    display: Proceedings of IJCAI 2024 conference (to appear)
+    url: https://www.ijcai.org/proceedings/2024/0766
+    display: Proceedings of IJCAI 2024 conference
+  highlight: 0
+  news2:
+  year: 2024
+
+
+- title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
+  image: ""
+  description:  ""
+  authors: H. Barral, M. Gaha, A. Dems, A. Côté, F. Nguewouo, Q. Cappart
+  link: 
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60597-0_3
+    display: Proceedings of CPAIOR 2024 conference
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches"
+  image: ""
+  description:  ""
+  authors: L. Boisvert, H. Verhaeghe, Q. Cappart
+  link: 
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60597-0_7
+    display: Proceedings of CPAIOR 2024 conference
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "An Improved Neuro-Symbolic Architecture to Fine-Tune Generative AI Systems"
+  image: ""
+  description:  ""
+  authors: C. Yin, Q. Cappart, G. Pessant
+  link: 
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60599-4_19
+    display: Proceedings of CPAIOR 2024 conference
   highlight: 0
   news2:
   year: 2024
@@ -20,40 +122,6 @@
   link: 
     url: https://servicenow.github.io/WorkArena/
     display:  ICLR 2024 Workshop on Large Language Model (LLM) Agent
-  highlight: 0
-  news2:
-  year: 2024
-
-
-- title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
-  image: ""
-  description:  ""
-  authors: H. Barral, M. Gaha, A. Dems, A. Côté, F. Nguewouo, Q. Cappart
-  link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
-  highlight: 0
-  news2:
-  year: 2024
-
-- title: "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches"
-  image: ""
-  description:  ""
-  authors: L. Boisvert, H. Verhaeghe, Q. Cappart
-  link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
-  highlight: 0
-  news2:
-  year: 2024
-
-- title: An Improved Neuro-Symbolic Architecture to Fine-Tune Generative AI Systems"
-  image: ""
-  description:  ""
-  authors: C. Yin, Q. Cappart, G. Pessant
-  link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
   highlight: 0
   news2:
   year: 2024
@@ -80,41 +148,29 @@
   news2:
   year: 2024
 
-- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
-  image: ""
-  description:  ""
-  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
-  link: 
-    url: https://arxiv.org/abs/2312.14836
-    display: Arxived (2024)
-  highlight: 0
-  news2:
-  year: 2024
-
-
-
-
 - title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
   image: ""
   description:  ""
   authors: H. Hoppe, T. Enders, Q. Cappart, M. Schiffer
   link: 
-    url: https://arxiv.org/abs/2312.08884
-    display: Proceedings of L4DC conference (to appear)
+    url: https://proceedings.mlr.press/v242/hoppe24a.html
+    display: Proceedings of L4DC conference
   highlight: 0
   news2:
   year: 2024
 
-- title: "Decision Diagrams in Space!"
+- title: "An Exact Framework for Solving the Space-Time Dependent TSP"
   image: ""
   description:  ""
   authors: I. Rudich, Q. Cappart, M. López-Ibáñez, M. Römer, L.-M. Rousseau
   link: 
     url: https://arxiv.org/abs/2312.01404
-    display: Arxived (2023)
+    display: Arxived (2024)
   highlight: 0
   news2:
-  year: 2023
+  year: 2024
+
+# 2023 ----------------
 
 - title: "The Unsolved Challenges of LLMs as Generalist Web Agents: A Case Study"
   image: ""
