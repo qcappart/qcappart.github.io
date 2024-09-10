@@ -20,7 +20,7 @@ author_profile: true
 
 * **AAAI:** 2025, 2024, 2023 (*AAAI conference on artificial intelligence*)
 * **CP:** 2024 (*International conference on principles and practice of constraint programming*)
-* **LOG:** 2924, 2023, 2022 (*Learning on graphs conference*)
+* **LOG:** 2024, 2023, 2022 (*Learning on graphs conference*)
 
 ## Program committee
 
