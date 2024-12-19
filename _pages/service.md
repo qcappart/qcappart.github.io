@@ -8,9 +8,9 @@ author_profile: true
 
 ## Event organization
 
-* **Organizing commitee of CRM thematic program**  ([*Mathematical foundations of data science*](https://www.crmath.ca/en/activities/#/type/activity/id/3950))
-* **CP and Machine Learning Track Chair**  ([*CP2024 conference*](https://cp2024.a4cp.org/index.html))
-* **Organizing commitee of 2021 NeurIPS Competition** ([*ML for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
+* **Organizing commitee of CRM thematic program (2025)**  ([*Mathematical foundations of data science*](https://www.crmath.ca/en/activities/#/type/activity/id/3950))
+* **CP and Machine Learning Track Chair (2024)**  ([*CP2024 conference*](https://cp2024.a4cp.org/index.html))
+* **Organizing commitee of NeurIPS Competition (2021)** ([*ML for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
 
 ## Editorial Activites for Journals
 
@@ -21,7 +21,7 @@ author_profile: true
 * **AAAI:** 2025, 2024, 2023 (*AAAI conference on artificial intelligence*)
 * **CP:** 2024 (*International conference on principles and practice of constraint programming*)
 * **LOG:** 2024, 2023, 2022 (*Learning on graphs conference*)
-
+* **LION:** 2025 (*Learning and Intelligent OptimizatioN Conference*)
 ## Program committee
 
 * **AAAI:** 2022, 2021, 2020 (*AAAI conference on artificial intelligence*)

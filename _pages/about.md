@@ -22,7 +22,7 @@ Prior to that, I was a a post-doctoral IVADO fellow at Polytechnique Montréal, 
 
 Research Interests
 ======
-My research interests are in artifical intelligence, particularly in the areas of constraint progamming, machine learning and combinatorial optimization. 
+My research interests are in artificial intelligence, particularly in the areas of constraint programming, machine learning and combinatorial optimization. 
 My goal is to develop decision-making tools able to leverage different aspects of artificial intelligence to perform better decisions. 
 I use these methods to solve real problems arising frequently in various industrial fields such as transportation, logistics, or healthcare.
 
