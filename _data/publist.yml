@@ -26,6 +26,23 @@
 
 #2024 -----------------------------------
 
+- title: "Learning and Fine-tuning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver"
+  image: CP2023-tom.png
+  description:  "Constraint programming is known for being an efficient approach for solving combinatorial problems. 
+  Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time.
+  Although several generic variable-selection heuristics are available in the literature, 
+  the options for a generic value-selection heuristic are more scarce.
+  This paper introduces a generic learning procedure that can be used to obtain a value-selection heuristic 
+  inside a constraint programming solver. This has been achieved thanks to the combination of a deep Q-learning algorithm, a tailored reward signal, 
+  and a heterogeneous graph neural network architecture."
+  authors: T. Marty, L. Boisvert T. François, P. Tessier, L. Gauthier, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://link.springer.com/article/10.1007/s10601-024-09377-4
+    display: Constraints (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
 - title: "The BrowserGym Ecosystem for Web Agent Research"
   image: ""
   description:  ""
