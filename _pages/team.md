@@ -17,20 +17,23 @@ More information about them is available [here](https://corail-research.github.i
 * *Guillaume Hermoso* (M.Sc. started in 2025) - co-supervision with L.-M. Rousseau
 * *Bérénice Dubois*  (M.Sc. started in 2025)
 * *Robin Gay* (M.Sc. started in 2024) - co-supervision with T. Ould-Bachir
-* *Yoann Sabatier Montanaro* (M.Sc. started in 2024) - co-supervision with G. Desaulniers
-* *Thibault le Sellier de Chezelles* (M.Sc. started in 2024) - co-supervision with M. Gasse
-* *Théau Lepouttre* (M.Sc. started in 2024) 
-* *El Mehdi Mehiri* (M.Sc. started in 2022) - co-supervision with A. Legrain
 
 
-## Alumni (and next position)
+
+
+
+## Alumni (and next known position)
 
 * *Öykü Naz Attila* (Postdoc in 2024, with A. Legrain)
-* [*Isaac Rudich*](https://www.isaacrudich.com/) (Ph.D. in 2024, with L.-M. Rousseau) - Independent consultant in optimization
+* [*Isaac Rudich*](https://www.isaacrudich.com/) (Ph.D. in 2024, with L.-M. Rousseau) - Independent consultant in optimization -  **Nomination for best Ph.D. thesis**
 * *Augustin Parjadis* (Ph.D. in 2023, with L.-M. Rousseau) - Data scientist at Ivado Labs 
-* *Peyman Kafaei* (Ph.D. in 2022, with L.-M. Rousseau) - Data scientist at Ivado Labs 
+* *Peyman Kafaei* (Ph.D. in 2022, with L.-M. Rousseau) - Data scientist at Ivado Labs
+* *Thibault le Sellier de Chezelles* (M.Sc. in 2025, with M. Gasse) - **Nomination for best Master thesis** 
+* *Yoann Sabatier Montanaro* (M.Sc. in 2025, with G. Desaulniers) - **Mention of excellence**
+* *Théau Lepouttre* (M.Sc. in 2025) - **Mention of excellence**  
 * *Chao Yin* (M.Sc.  in 2025, with G. Pesant) - Ph.D. student at Polytechnique Montréal - **Mention of excellence**
-* *Hugo Barral* (M.Sc. in 2024) -  Ph.D student at Polytechnique Montréal and INSA Toulouse
+* *El Mehdi Mehiri* (M.Sc. in 2025, with A. Legrain) 
+* *Hugo Barral* (M.Sc. in 2024)  Ph.D. student at Polytechnique Montréal and INSA Toulouse -   **Best Master thesis in computer engineering** 
 * *Amaury Guichard* (M.Sc. in 2024) - Ph.D student at UCLouvain
 * [*Léo Boisvert*](https://leo-boisvert.com/) (M.Sc. in 2024) - Ph.D student at Polytechnique Montréal
 * *Maryam Abazari* (M.Sc. in 2024) - Engagement analyst at University Advancement, McGill

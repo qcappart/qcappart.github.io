@@ -8,29 +8,34 @@ author_profile: true
 
 ## Event organization
 
+* **Student Volunteers Chair (2025)**  ([*IJCAI2025 conference*](https://2025.ijcai.org/conference-committee-copy/))
 * **Organizing commitee of CRM thematic program (2025)**  ([*Mathematical foundations of data science*](https://www.crmath.ca/en/activities/#/type/activity/id/3950))
 * **CP and Machine Learning Track Chair (2024)**  ([*CP2024 conference*](https://cp2024.a4cp.org/index.html))
 * **Organizing commitee of NeurIPS Competition (2021)** ([*ML for combinatorial optimization*](https://www.ecole.ai/2021/ml4co-competition/)) 
 
 ## Editorial Activites for Journals
 
-* **Editorial board member** ([constraints](https://link.springer.com/journal/10601), since June 2024)
+* **Associate editor** ([INFORMS journal on computing](https://pubsonline.informs.org/page/ijoc/editorial-board), since 2025)
+* **Editorial board member** ([constraints](https://link.springer.com/journal/10601), since 2024)
 
 ## Area chair and senior program committee
 
 * **AAAI:** 2025, 2024, 2023 (*AAAI conference on artificial intelligence*)
+* **IJCAI:** 2025 (*International Joint Conference on Artificial Intelligence*)
+* **ECAI:** 2025 (*European conference on artificial intelligence*)
 * **CP:** 2024 (*International conference on principles and practice of constraint programming*)
 * **LOG:** 2024, 2023, 2022 (*Learning on graphs conference*)
 * **LION:** 2025 (*Learning and Intelligent OptimizatioN Conference*)
+
 ## Program committee
 
 * **AAAI:** 2022, 2021, 2020 (*AAAI conference on artificial intelligence*)
-* **CP:** 2023, 2019 (*International conference on principles and practice of constraint programming*)
+* **CP:** 2025, 2023, 2019 (*International conference on principles and practice of constraint programming*)
 * **CPAIOR:** 2024, 2023, 2022 (*International conference on the integration of CP, AI, and OR*)
 * **IJCAI:** 2020 (*International joint conferences on artificial intelligence*)
 * **ECAI:** 2024 (*European conference on artificial intelligence*)
+* **JFPC:** 2025, 2024, 2023, 2022, 2021, 2018 (*Journées francophones de programmation par contraintes*)
 * **NETGCOOP:** 2024 (*Network games, artificial intelligence, control and optimization*)
-* **JFPC:** 2024, 2023, 2022, 2021, 2018 (*Journées francophones de programmation par contraintes*)
 
 ## Reviewing
 
@@ -51,5 +56,6 @@ author_profile: true
 
 ## Others
 
+* *Member of the 2025 award committee* (Association for constraint programming)
 * *Session organizer at several conferences* (INFORMS, CORS, Optimization days, etc.)
 * *Grant evaluator in different countries* (Canada, Belgium, France)
