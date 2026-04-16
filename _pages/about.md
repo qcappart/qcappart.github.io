@@ -13,7 +13,7 @@ redirect_from:
 <meta http-equiv='pragma' content='no-cache'>
 
 
-I am Quentin, associate professor at [Polytechnique Montréal](https://polymtl.ca/en) (engineering school associated to [University of Montreal](https://www.umontreal.ca/en/))
+I am Quentin, assistant professor at [UCLouvain](https://www.uclouvain.be) and associate professor at [Polytechnique Montréal](https://polymtl.ca/en) (engineering school associated to [University of Montreal](https://www.umontreal.ca/en/)), both
 in the department of computer engineering and software engineering. I am the recipient of [2024 ACP Early Career Researcher Award](https://www.a4cp.org/awards/early-career-research-award), a regular member of [CIRRELT](https://www.cirrelt.ca/default.aspx),  member of the [association for constraint programming](https://www.a4cp.org/), [IVADO](https://ivado.ca/) researcher, affiliate member of [MILA](https://mila.quebec/en/), and researcher at the [IMC2 institute](https://i-mc2.ca/en/). I also lead the [CORAIL research group](https://corail-research.github.io/), that I co-founded with [Louis-Martin Rousseau](https://hanalog.ca/en/person/louis-martin-rousseau/).
 
 
