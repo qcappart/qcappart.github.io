@@ -13,10 +13,8 @@ More information about them is available [here](https://corail-research.github.i
 * *Hugo Barral* (Ph.D. started in 2024) - co-supervision with M.-J. Huguet and S. Thiébaux
 * *Max Bourgeat* (Ph.D. started in 2024) - co-supvervision with A. Legrain
 * *Gaël Reynal* (Ph.D. started in 2022) - co-supervision with L.-M. Rousseau and G. Desaulniers
-* *Emile Jehaes* (M.Sc. started in 2025)
+* *Emile Jehaes* (Ph.D. started in 2026, at UCLouvain)
 * *Guillaume Hermoso* (M.Sc. started in 2025) - co-supervision with L.-M. Rousseau
-* *Bérénice Dubois*  (M.Sc. started in 2025)
-* *Robin Gay* (M.Sc. started in 2024) - co-supervision with T. Ould-Bachir
 
 
 
@@ -28,6 +26,10 @@ More information about them is available [here](https://corail-research.github.i
 * [*Isaac Rudich*](https://www.isaacrudich.com/) (Ph.D. in 2024, with L.-M. Rousseau) - Independent consultant in optimization -  **Nomination for best Ph.D. thesis**
 * *Augustin Parjadis* (Ph.D. in 2023, with L.-M. Rousseau) - Data scientist at Ivado Labs 
 * *Peyman Kafaei* (Ph.D. in 2022, with L.-M. Rousseau) - Data scientist at Ivado Labs
+* *Emile Jehaes* (M.Sc. in 2026, with L.-M. Rousseau) - Ph.D. student at UCLouvain - **Mention of excellence**
+* *Bérénice Dubois* (M.Sc. in 2026) - **Mention of excellence**
+* *Robin Gay* (M.Sc. in 2026, with T. Ould-Bachir)
+* *Jason Greige* (M.Sc. in 2026)
 * *Thibault le Sellier de Chezelles* (M.Sc. in 2025, with M. Gasse) - **Nomination for best Master thesis** 
 * *Yoann Sabatier Montanaro* (M.Sc. in 2025, with G. Desaulniers) - **Mention of excellence**
 * *Théau Lepouttre* (M.Sc. in 2025) - **Mention of excellence**  
