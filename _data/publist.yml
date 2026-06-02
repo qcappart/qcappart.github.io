@@ -1,5 +1,62 @@
 
+#2026 -----------------------------------
+
+- title: "Malice in Agentland: Down the Rabbit Hole of Backdoors in the AI Supply Chain"
+  image: ""
+  description: ""
+  authors: L. Boisvert, A. Puri, C. K. R. Evuru, N. M. Sepahvand, N. Chapados, Q. Cappart, J. Stanley, A. Lacoste, K. Dvijotham, A. Drouin
+  link:
+    url: https://www.caisconf.org/program/2026/papers/malice-in-agentland-down-the-rabbit-hole-of-backdoors-in-the-ai-supply-chain/
+    display: Proceedings of CAIS 2026 conference **(Best paper award)**
+  highlight: 0
+  news2:
+  year: 2026
+
+- title: "Deep Learning for Data-Driven Districting-and-Routing"
+  image: ""
+  description:  ""
+  authors: A. Ferraz, C. Ahmed, Q. Cappart, T. Vidal
+  link:
+    url: https://pubsonline.informs.org/doi/abs/10.1287/trsc.2024.0581
+    display: Transportation Science (2026)
+  highlight: 0
+  news2:
+  year: 2026
+
 #2025 -----------------------------------
+
+- title: "Combining Constraint Programming and Machine Learning: From Current Progress to Future Opportunities"
+  image: ""
+  description:  ""
+  authors: Q. Cappart, T. Guns, M. Lombardi, G. Pesant, D. Tsouros
+  link:
+    url: https://jair.org/index.php/jair/article/view/19533
+    display: Journal of Artificial Intelligence Research (2025)
+  highlight: 0
+  news2:
+  year: 2025
+
+- title: "A Column Generation Heuristic for Multi-depot Electric Bus Scheduling"
+  image: ""
+  description:  ""
+  authors: Y.-S. Montanaro, T. Jacquet, Q. Cappart, G. Desaulniers
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-95976-9_7
+    display: Proceedings of CPAIOR 2025 conference
+  highlight: 0
+  news2:
+  year: 2025
+
+- title: "Shaping Reward Signals in Reinforcement Learning Using Constraint Programming"
+  image: ""
+  description:  ""
+  authors: C. Yin, Q. Cappart, G. Pesant
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-95976-9_16
+    display: Proceedings of CPAIOR 2025 conference
+  highlight: 0
+  news2:
+  year: 2025
 
 - title: "A machine-learning-based column generation heuristic for electric bus scheduling"
   image: ""
@@ -19,7 +76,7 @@
   authors: S. Bessa, D. Dabert, M. Bourgeat, L.-M. Rousseau, Q. Cappart
   link: 
     url: https://arxiv.org/abs/2408.12695
-    display: Proceedings of AAAI 2025 conference (to appear)
+    display: Proceedings of AAAI 2025 conference
   highlight: 0
   news2:
   year: 2025
@@ -162,17 +219,6 @@
   link: 
     url: https://servicenow.github.io/WorkArena/
     display:  ICLR 2024 Workshop on Large Language Model (LLM) Agent
-  highlight: 0
-  news2:
-  year: 2024
-
-- title: "Deep Learning for Data-Driven Districting-and-Routing"
-  image: ""
-  description:  ""
-  authors: A. Ferraz, Q. Cappart, T. Vidal
-  link: 
-    url: https://arxiv.org/abs/2402.06040
-    display: Arxived (2024)
   highlight: 0
   news2:
   year: 2024
