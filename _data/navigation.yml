@@ -14,4 +14,7 @@ main:
     
   - title: "Services"
     url: /service/
-        
+
+  - title: "Media"
+    url: /media/
+
