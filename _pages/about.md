@@ -29,6 +29,7 @@ I use these methods to solve real problems arising frequently in various industr
 Selected Honors and Awards
 ======
 
+* **Best paper award** (CAIS/ACM - 2026) [[link](https://www.caisconf.org/program/2026/papers/malice-in-agentland-down-the-rabbit-hole-of-backdoors-in-the-ai-supply-chain/)]
 * **Prix Méritas (twice)** (Polytechnique Montréal - 2026) [[link](https://www.polymtl.ca/carrefour-actualite/nouvelles/gala-meritas-2026-polytechnique-montreal-lengagement-de-53-membres-du-corps-enseignant-souligne-par)]
 * **Early career engineer award** (Ordre des ingénieurs du Québec - 2025) [[link](https://www.oiq.qc.ca/membres/soiree-excellence/)]
 * **Early career professor award** (Polytechnique Montréal - 2025) [[link](https://www.polymtl.ca/carrefour-actualite/nouvelles/poly-en-lumiere-polytechnique-montreal-souligne-la-contribution-de-membres-de-sa-communaute-employee)]
