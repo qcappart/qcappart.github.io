@@ -25,6 +25,28 @@
 
 #2025 -----------------------------------
 
+- title: "DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats"
+  image: ""
+  description:  ""
+  authors: L. Boisvert, A. Puri, G. Huang, M. Bansal, C. K. R. Evuru, A. Bose, M. Fazel, Q. Cappart, A. Lacoste, A. Drouin, K. Dvijotham
+  link:
+    url: https://openreview.net/forum?id=GanmYQ0RpE
+    display: Proceedings of COLM 2025 conference
+  highlight: 0
+  news2:
+  year: 2025
+
+- title: "The BrowserGym Ecosystem for Web Agent Research"
+  image: ""
+  description:  ""
+  authors: T. Le Sellier De Chezelles, M. Gasse, A. Drouin, M. Caccia, L. Boisvert, M. Thakkar, T. Marty, R. Assouel, S. Shayegan, L. Jang, X. Lù, O. Yoran, De. Kong, F. Xu, S. Reddy, Q. Cappart, G. Neubig, R. Salakhutdinov, N. Chapados, A. Lacoste
+  link:
+    url: https://openreview.net/forum?id=5298fKGmv3
+    display: Transactions on Machine Learning Research (2025)
+  highlight: 0
+  news2:
+  year: 2025
+
 - title: "Combining Constraint Programming and Machine Learning: From Current Progress to Future Opportunities"
   image: ""
   description:  ""
@@ -96,17 +118,6 @@
   link: 
     url: https://link.springer.com/article/10.1007/s10601-024-09377-4
     display: Constraints (2024)
-  highlight: 0
-  news2:
-  year: 2024
-
-- title: "The BrowserGym Ecosystem for Web Agent Research"
-  image: ""
-  description:  ""
-  authors: T. Le Sellier De Chezelles, M. Gasse, A. Drouin, M. Caccia, L. Boisvert, M. Thakkar, T. Marty, R. Assouel, S. Shayegan, L. Jang, X. Lù, O. Yoran, De. Kong, F. Xu, S. Reddy, Q. Cappart, G. Neubig, R. Salakhutdinov, N. Chapados, A. Lacoste
-  link: 
-    url: https://arxiv.org/abs/2412.05467
-    display: ArXived (2024)
   highlight: 0
   news2:
   year: 2024
