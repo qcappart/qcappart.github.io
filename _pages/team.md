@@ -9,11 +9,18 @@ More information about them is available [here](https://corail-research.github.i
 
 ## Current members
 
+* *Alexandre Dubray* (Postdoc in 2026) - co-supervision with S. Nijssen and H. Verhaeghe
+* *Francesco Morri* (Postdoc in 2026) - co-supervision with A. Abusitta and M. Carvalho
 * [*Léo Boisvert*](https://leo-boisvert.com/) (Ph.D. started in 2024) - co-supervision with A. Drouin
 * *Hugo Barral* (Ph.D. started in 2024) - co-supervision with M.-J. Huguet and S. Thiébaux
 * *Max Bourgeat* (Ph.D. started in 2024) - co-supvervision with A. Legrain
 * *Gaël Reynal* (Ph.D. started in 2022) - co-supervision with L.-M. Rousseau and G. Desaulniers
-* *Emile Jehaes* (Ph.D. started in 2026, at UCLouvain)
+* *Emile Jehaes* (Ph.D. started in 2026)
+* *Awen Jacq--Bodet* (Ph.D. started in 2026) - co-supervision with G. Desaulniers and J. Mendoza
+* *Youssef Chaouki* (M.Sc. started in 2026) - co-supervision with A. Abusitta
+* *Damien Robledo Poisson* (M.Sc. started in 2026) - co-supervision with B. Tremblay
+* *Romain Lebbadi-Breteau* (M.Sc. started in 2025) 
+* *Majeed Abdul Baki* (M.Sc. started in 2025) 
 * *Guillaume Hermoso* (M.Sc. started in 2025) - co-supervision with L.-M. Rousseau
 
 
